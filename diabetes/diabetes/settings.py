@@ -39,12 +39,12 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-	'forum',
-	'infos',
-	'beRechner',
-	'rezepte',
-	'dataStatistic',
-	'memberRegAuth'
+    'forum',
+    'infos',
+    'beRechner',
+    'rezepte',
+    'dataStatistic',
+    'memberRegAuth',
 ]
 
 MIDDLEWARE_CLASSES = [
